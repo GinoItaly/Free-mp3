@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+
+#container{
+    text-align: center;
+    height: 1000px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#title{
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-style: italic;
+    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,225,0) 14.28%,
+    rgb(0,225,225) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+}
+
